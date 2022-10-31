@@ -2,7 +2,7 @@
 
 Test scenario was built chronologically in order to reuse every data as much as possible.
 
-To do that, `describes` are used to cover the following functions in the smart contract :
+To do that, `describe` are used to cover the following functions in the smart contract :
 
 - addVoter
 - addProposal
