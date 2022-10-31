@@ -42,4 +42,10 @@ $ truffle test test/Voting.test.js
 
 Gas usage measured with eth-gas-reporter
 
-![ETG Gas Reporter](img/ethgasreporter.png)
+![ETH Gas Reporter](img/ethgasreporter.png)
+
+## Coverage
+
+Coverage measured with Hardhat and solidity-coverage
+
+![COVERAGE](img/coverage.png)
